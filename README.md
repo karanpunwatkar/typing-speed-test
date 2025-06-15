@@ -12,14 +12,6 @@ Test your typing skills in real time and see your speed, accuracy, and progress!
 
 ---
 
-## 📸 Preview
-
-![Typing Speed Test Preview](https://karanpunwatkar.github.io/typing-speed-test/screenshot.png)
-
-*(Optional: Add a screenshot to your repo named `screenshot.png`)*
-
----
-
 ## ✨ Features
 
 - Real-time typing speed measurement (WPM)
